@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 // Silence some warnings so they don't distract from the exercise.
 #![allow(unused_variables)] 
+=======
+// Silence some warnings so they don't distract from the exercise.
+#![allow(unused_variables)]
+>>>>>>> b2d4f503a605ff0bd35983e686d4237d6141e247
 
 fn main() {
     let width = 4;
