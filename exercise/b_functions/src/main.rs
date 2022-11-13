@@ -1,4 +1,4 @@
-// Silence some warnings so they don't distract from the exercise.
+// Silence some warnings so they don't distract from the exercise.TEST
 #![allow(unused_variables)]
 
 fn main() {
