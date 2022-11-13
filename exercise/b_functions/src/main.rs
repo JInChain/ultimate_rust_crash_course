@@ -1,5 +1,5 @@
-// Silence some warnings so they don't distract from the exercise.TEST
-#![allow(unused_variables)]
+// Silence some warnings so they don't distract from the exercise.
+#![allow(unused_variables)] 
 
 fn main() {
     let width = 4;
